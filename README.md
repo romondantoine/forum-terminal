@@ -12,9 +12,9 @@ Le projet est fortement inspiré de la platforme [Reddit](https://www.reddit.com
 
 # 🖥️ Base de données
 Schéma relationnel de la base de données :
-- **actions** (<u>(action_time, #user_id)</u>, type, description).
-- **attachments** (<u>#post_id</u>, file_name).
-- **posts** (<u>post_id</u>, #thread_id, #user_id, content, creation_time).
-- **sessions** (<u>post_id</u>, #user_id, connection_time).
-- **threads** (<u>thread_id</u>, #user_id, title, original_post, creation_time).
-- **users** (<u>user_id</u>, alias, display_name, permissions, password, creation_time, last_login).
+- **actions** (<ins>(action_time, #user_id)</ins>, type, description).
+- **attachments** (<ins>#post_id</ins>, file_name).
+- **posts** (<ins>post_id</ins>, #thread_id, #user_id, content, creation_time).
+- **sessions** (<ins>post_id</ins>, #user_id, connection_time).
+- **threads** (<ins>thread_id</ins>, #user_id, title, original_post, creation_time).
+- **users** (<ins>user_id</ins>, alias, display_name, permissions, password, creation_time, last_login).
