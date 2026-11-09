@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Блйчат</title>
+
+        <!-- Remplacer le chemin d'accès par le bon chemin -->
+        <link rel="stylesheet" href="Блйчат/website/css/all.css">
+    </head>
+    <body>
+        <header>
+            <!-- J'ai pris Mineworld comme base HTML puisque qu'il reprend plusieurs mécaniques que nous utiliserons dans le forum-->
+            <nav class="header" id="header-navigation" aria-label="Menu principal">
+                <a href="/main" class="nav_button">Home</a>
+                <a href="/posts" class="nav_button">Posts</a>
+                <a href="/threads" class="nav_button">Threads</a>
+                <a href="https://github.com/romondantoine/forum-terminal" class="nav_button">GitHub</a>
+
+                <!-- Cyka, j'ai copié collé le select de Mineworld, dès que j'aurais fini la page il faudrait faire une traduction avec les bons chemins d'accès -->
+                <select onchange="if(this.value) window.location=this.value">
+                    <option value="/main">English</option>
+                    <option value="/fr/main">Français</option>
+                    <option value="/ru/main">Русский</option>
+                </select>
+            </nav>
+        </header>
+    </body>
+</html>
