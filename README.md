@@ -11,9 +11,8 @@ Toutes les actions effectuées par les utilisateurs sont également enregistrée
 Le projet est fortement inspiré de la plateforme [Reddit](https://www.reddit.com/).
 
 # 🕵️ Politique de confidentialité
-Vous ne possédez pas vos données, et l'équipe de Блйчат se réserve le droit de vendre vos données personnelles à des services de publicité tiers.
-Vos messages ne sont pas anonymes sur la plateforme et vous êtes donc responsables de ce que vous y publiez et des informations personnelles que vous renseignez.
-Pour la sécurité de votre identité, veuillez ne pas utiliser votre vraie identité sur la plateforme.
+Блйчат s'engage à respecter la vie privée de ses utilisateurs pour une plateforme libre et sûre.
+Cependant, pour la sécurité de votre identité en ligne, veuillez éviter votre vraie identité sur la plateforme.
 
 # 🖥️ Base de données
 Schéma relationnel de la base de données :
