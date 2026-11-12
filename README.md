@@ -12,7 +12,7 @@ Le projet est fortement inspiré de la plateforme [Reddit](https://www.reddit.co
 
 # 🕵️ Politique de confidentialité
 Блйчат s'engage à respecter la vie privée de ses utilisateurs pour une plateforme libre et sûre.
-Cependant, pour la sécurité de votre identité en ligne, veuillez éviter votre vraie identité sur la plateforme.
+Cependant, pour la sécurité de votre identité en ligne, veuillez éviter de renseigner votre vraie identité sur la plateforme en cas de fuites de données.
 
 # 🖥️ Base de données
 Schéma relationnel de la base de données :
